@@ -108,10 +108,6 @@ The demo showcases the platform’s core capabilities, including:
 - **Hybrid Model Enhancements**: Incorporate Transformer-based architectures to enhance forecasting accuracy.
 - **Expanded Data Sources**: Integrate more financial data providers to improve prediction reliability.
 
-## Contributors
-- **Sourabh Somanath Harapanahalli**
-- **Chandana Bhadravati Nagaraj**
-
 ## License
 This project is licensed under the MIT License.
 
